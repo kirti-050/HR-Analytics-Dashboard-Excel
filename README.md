@@ -6,7 +6,7 @@ An end-to-end interactive HR analytics dashboard built in Microsoft Excel, analy
 
 ## 🖥️ Dashboard Preview
 
-> *Add your dashboard screenshot here — drag and drop the image into GitHub after uploading*
+![App Preview](House_Price_Prediction_Using_Machine_Learning/screenshots/app_preview_1.png)
 
 ---
 
