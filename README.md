@@ -190,9 +190,9 @@ Building a data analytics portfolio targeting Data Analyst and Business Analyst 
 - 🔄 Financial P&L with What-If Analysis (Excel) — coming soon
 - ⏳ Customer Segmentation Analysis (Tableau) — coming soon
 
-📧 *[kirtisri.vin19@gmail.com]*
-🔗 *[www.linkedin.com/in/kirti-srivastava-16a7a3290]*
-🐙 *[[Add your GitHub profile URL](https://github.com/kirti-050)]*
+📧 *[[Email:](kirtisri.vin19@gmail.com)]*
+🔗 *[[LinkedIn:](www.linkedin.com/in/kirti-srivastava-16a7a3290)]*
+🐙 *[[Github:](https://github.com/kirti-050)]*
 
 ---
 
